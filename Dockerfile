@@ -50,6 +50,10 @@ COPY filterscripts/ ./filterscripts/
 COPY scriptfiles/   ./scriptfiles/
 COPY models/        ./models/
 
+# ── Entrypoint script & log handling ─────────────────────────────────────────
+COPY entrypoint.sh       ./entrypoint.sh
+RUN chmod +x ./entrypoint.sh
+
 # ── Folder log persisten (mount: samp_logs -> /tstudio/logs) ────────────────
 RUN mkdir -p /tstudio/logs && \
     ln -sf /tstudio/logs/server_log.txt  /tstudio/server_log.txt && \
@@ -60,4 +64,4 @@ EXPOSE 7779/tcp
 
 STOPSIGNAL SIGINT
 
-CMD ["./samp03svr"]
+CMD ["./entrypoint.sh"]

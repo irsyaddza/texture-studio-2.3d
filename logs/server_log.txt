@@ -1,0 +1,483 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:38:54] 
+[19:38:54] Server Plugins
+[19:38:54] --------------
+[19:38:54]  Loading plugin: crashdetect.so
+[19:38:54]   CrashDetect v4.15.1 is OK.
+[19:38:54]   Loaded.
+[19:38:54]  Loading plugin: sscanf.so
+[19:38:54] 
+
+[19:38:54]  ===============================
+
+[19:38:54]       sscanf plugin loaded.     
+
+[19:38:54]          Version:  2.8.1        
+
+[19:38:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:38:54]  ===============================
+
+[19:38:54]   Loaded.
+[19:38:54]  Loading plugin: streamer.so
+[19:38:54] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:38:54]   Loaded.
+[19:38:54]  Loading plugin: filemanager.so
+[19:38:54] ******************
+[19:38:54] ** FILE MANAGER **
+[19:38:54] **    Loaded    **
+[19:38:54] ** Version 1.5 **
+[19:38:54] ******************
+[19:38:54]   Loaded.
+[19:38:54]  Loaded 4 plugins.
+
+[19:38:54] 
+[19:38:54] Filterscripts
+[19:38:54] ---------------
+[19:38:54]   Loading filterscript 'tstudio.amx'...
+[19:38:54]  
+[19:38:54]  
+[19:38:54]          ==============================================================
+[19:38:54]          |                                                            |
+[19:38:54]          |                                                            |
+[19:38:54]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[19:38:54]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[19:38:54]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[19:38:54]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[19:38:54]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[19:38:54]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[19:38:54]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[19:38:54]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[19:38:54]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[19:38:54]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[19:38:54]          |           Y:::::Y                    S:::::S   I::::I      |
+[19:38:54]          |           Y:::::Y                    S:::::S   I::::I      |
+[19:38:54]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[19:38:54]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[19:38:54]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[19:38:54]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[19:38:54]          |                                                            |
+[19:38:54]          |                                                            |
+[19:38:54]          |                      (c) 2021 MPL v1.1                     |
+[19:38:54]          |            Alex "Y_Less" Cole and contributors.            |
+[19:38:54]          |                                                            |
+[19:38:54]          |                                                            |
+[19:38:54]          ==============================================================
+[19:38:54]  
+[19:38:54]  
+[19:38:54]  ========================================== 
+[19:38:54]  |                                        | 
+[19:38:54]  |   Generating code, this may take a     | 
+[19:38:54]  |  little bit of time.  Note that this   | 
+[19:38:54]  |  code generation works best with the   | 
+[19:38:54]  |     JIT plugin, which you are not      | 
+[19:38:54]  |     currently using.  Get it here:     | 
+[19:38:54]  |                                        | 
+[19:38:54]  |       https://git.io/jit-plugin        | 
+[19:38:54]  |                                        | 
+[19:38:54]  |             Please wait...             | 
+[19:38:55]  |                                        | 
+[19:38:55]  |             Done in 1289ms!            | 
+[19:38:55]  |                                        | 
+[19:38:55]  ========================================== 
+[19:38:55] *** YSI Info: Script ID: 1
+[19:38:55] Unknown command or variable:
+  &)8%3_/n#lient#heck2esponse
+[19:38:55]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[19:38:55]  |                                        | 
+[19:38:55]  | Server:      0.3.DL-R1 (L)             | 
+[19:38:55]  | Started:     17 Oct 2026 - 19:38:54    | 
+[19:38:55]  |                                        | 
+[19:38:55]  | Compiler:    3.10.08 (Windows)         | 
+[19:38:55]  | Includes:    0.3DL                     | 
+[19:38:55]  | Codepage:    <none>                    | 
+[19:38:55]  | Built:       19 Sep 2026 - 14:01:03    | 
+[19:38:55]  |                                        | 
+[19:38:55]  | YSI:         v05.10.0006               | 
+[19:38:55]  | Master:      1                         | 
+[19:38:55]  |                                        | 
+[19:38:55]  | JIT:         <none>                    | 
+[19:38:55]  | Crashdetect: <warning>                 | 
+[19:38:55]  |                                        | 
+[19:38:55]  |   Crashdetect has been found, but no   | 
+[19:38:55]  |      long-call controls have been      | 
+[19:38:55]  |   detected.  Get the unofficial fixed  | 
+[19:38:55]  |             release from:              | 
+[19:38:55]  |                                        | 
+[19:38:55]  |           github.com/Y-Less/           | 
+[19:38:55]  |        samp-plugin-crashdetect/        | 
+[19:38:55]  |                                        | 
+[19:38:55]  |                                        | 
+[19:38:55]  ========================================== 
+[19:38:55]  
+[19:38:55]  
+[19:38:55] LOADED 9065 texture definitions
+[19:38:55] -----------------------------------------------------------
+[19:38:55] ----Texture Studio v1.0 - v1.9d By [uL]Pottus and Crayder--
+[19:38:55] ----Texture Studio v2.3 - v2.3d by arofta           --
+[19:38:55] -------------------------------------------------Loaded----
+[19:38:55]   Loaded 1 filterscripts.
+
+[19:38:55] 
+/*-----------------------------------*\
+[19:38:55] |*=====[TS Base GameMode Loaded]=====*|
+[19:38:55] \*-----------------------------------*/
+
+[19:38:55] Number of vehicle models: 0
+[19:42:05] [debug] Server received interrupt signal
+[19:42:05] [debug] Native backtrace:
+[19:42:05] [debug] #0 f791ee8b in _ZN10StackTraceC1EPv () from plugins/crashdetect.so
+[19:42:05] [debug] #1 f7917bcf in _ZN11CrashDetect20PrintNativeBacktraceERSoPv () from plugins/crashdetect.so
+[19:42:05] [debug] #2 f7918dbc in _ZN11CrashDetect20PrintNativeBacktraceEPv () from plugins/crashdetect.so
+[19:42:05] [debug] #3 f7919176 in _ZN11CrashDetect11OnInterruptEPv () from plugins/crashdetect.so
+[19:42:05] [debug] #4 f791ea7c in ?? () from plugins/crashdetect.so
+[19:42:05] [debug] #5 f7f56300 in __kernel_rt_sigreturn () from linux-gate.so.1
+[19:42:05] [debug] #6 f7f562cc in __kernel_vsyscall () from linux-gate.so.1
+[19:42:05] [debug] #7 f7a23cca in __clock_nanosleep_time64 () from /lib/i386-linux-gnu/libc.so.6
+[19:42:05] [debug] #8 f7a360ad in nanosleep () from /lib/i386-linux-gnu/libc.so.6
+[19:42:05] [debug] #9 f7a676c3 in usleep () from /lib/i386-linux-gnu/libc.so.6
+[19:42:05] [debug] #10 080b2dca in ?? () from ./samp03svr
+[19:42:05] [debug] #11 f7968cb9 in ?? () from /lib/i386-linux-gnu/libc.so.6
+[19:42:05] [debug] #12 f7968d7c in __libc_start_main () from /lib/i386-linux-gnu/libc.so.6
+[19:42:05] [debug] #13 0804b4e1 in ?? () from ./samp03svr
+[19:42:05] --- Server Shutting Down.
+[19:42:05] -----------------------------------------------------------
+[19:42:05] ----Texture Studio v1.0 - v1.9d By [uL]Pottus and Crayder--
+[19:42:05] ----Texture Studio v2.3 - v2.3d by arofta           --
+[19:42:05] -------------------------------------------------Unloaded--
+[19:42:05] 
+
+[19:42:05]  ===============================
+
+[19:42:05]      sscanf plugin unloaded.    
+
+[19:42:05]  ===============================
+
+[19:42:05] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:42:10] 
+[19:42:10] Server Plugins
+[19:42:10] --------------
+[19:42:10]  Loading plugin: crashdetect.so
+[19:42:10]   CrashDetect v4.15.1 is OK.
+[19:42:10]   Loaded.
+[19:42:10]  Loading plugin: sscanf.so
+[19:42:10] 
+
+[19:42:10]  ===============================
+
+[19:42:10]       sscanf plugin loaded.     
+
+[19:42:10]          Version:  2.8.1        
+
+[19:42:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:42:10]  ===============================
+
+[19:42:10]   Loaded.
+[19:42:10]  Loading plugin: streamer.so
+[19:42:10] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:42:10]   Loaded.
+[19:42:10]  Loading plugin: filemanager.so
+[19:42:10] ******************
+[19:42:10] ** FILE MANAGER **
+[19:42:10] **    Loaded    **
+[19:42:10] ** Version 1.5 **
+[19:42:10] ******************
+[19:42:10]   Loaded.
+[19:42:10]  Loaded 4 plugins.
+
+[19:42:10] 
+[19:42:10] Filterscripts
+[19:42:10] ---------------
+[19:42:10]   Loading filterscript 'tstudio.amx'...
+[19:42:10]  
+[19:42:10]  
+[19:42:10]          ==============================================================
+[19:42:10]          |                                                            |
+[19:42:10]          |                                                            |
+[19:42:10]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[19:42:10]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[19:42:10]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[19:42:10]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[19:42:10]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[19:42:10]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[19:42:10]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[19:42:10]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[19:42:10]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[19:42:10]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[19:42:10]          |           Y:::::Y                    S:::::S   I::::I      |
+[19:42:10]          |           Y:::::Y                    S:::::S   I::::I      |
+[19:42:10]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[19:42:10]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[19:42:10]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[19:42:10]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[19:42:10]          |                                                            |
+[19:42:10]          |                                                            |
+[19:42:10]          |                      (c) 2021 MPL v1.1                     |
+[19:42:10]          |            Alex "Y_Less" Cole and contributors.            |
+[19:42:10]          |                                                            |
+[19:42:10]          |                                                            |
+[19:42:10]          ==============================================================
+[19:42:10]  
+[19:42:10]  
+[19:42:10]  ========================================== 
+[19:42:10]  |                                        | 
+[19:42:10]  |   Generating code, this may take a     | 
+[19:42:10]  |  little bit of time.  Note that this   | 
+[19:42:10]  |  code generation works best with the   | 
+[19:42:10]  |     JIT plugin, which you are not      | 
+[19:42:10]  |     currently using.  Get it here:     | 
+[19:42:10]  |                                        | 
+[19:42:10]  |       https://git.io/jit-plugin        | 
+[19:42:10]  |                                        | 
+[19:42:10]  |             Please wait...             | 
+[19:42:11]  |                                        | 
+[19:42:11]  |             Done in 1099ms!            | 
+[19:42:11]  |                                        | 
+[19:42:11]  ========================================== 
+[19:42:11] *** YSI Info: Script ID: 1
+[19:42:11] Unknown command or variable:
+  &)8%3_/n#lient#heck2esponse
+[19:42:11]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[19:42:11]  |                                        | 
+[19:42:11]  | Server:      0.3.DL-R1 (L)             | 
+[19:42:11]  | Started:     17 Oct 2026 - 19:42:10    | 
+[19:42:11]  |                                        | 
+[19:42:11]  | Compiler:    3.10.08 (Windows)         | 
+[19:42:11]  | Includes:    0.3DL                     | 
+[19:42:11]  | Codepage:    <none>                    | 
+[19:42:11]  | Built:       19 Sep 2026 - 14:01:03    | 
+[19:42:11]  |                                        | 
+[19:42:11]  | YSI:         v05.10.0006               | 
+[19:42:11]  | Master:      1                         | 
+[19:42:11]  |                                        | 
+[19:42:11]  | JIT:         <none>                    | 
+[19:42:11]  | Crashdetect: <warning>                 | 
+[19:42:11]  |                                        | 
+[19:42:11]  |   Crashdetect has been found, but no   | 
+[19:42:11]  |      long-call controls have been      | 
+[19:42:11]  |   detected.  Get the unofficial fixed  | 
+[19:42:11]  |             release from:              | 
+[19:42:11]  |                                        | 
+[19:42:11]  |           github.com/Y-Less/           | 
+[19:42:11]  |        samp-plugin-crashdetect/        | 
+[19:42:11]  |                                        | 
+[19:42:11]  |                                        | 
+[19:42:11]  ========================================== 
+[19:42:11]  
+[19:42:11]  
+[19:42:11] LOADED 9065 texture definitions
+[19:42:11] -----------------------------------------------------------
+[19:42:11] ----Texture Studio v1.0 - v1.9d By [uL]Pottus and Crayder--
+[19:42:11] ----Texture Studio v2.3 - v2.3d by arofta           --
+[19:42:11] -------------------------------------------------Loaded----
+[19:42:11]   Loaded 1 filterscripts.
+
+[19:42:11] 
+/*-----------------------------------*\
+[19:42:11] |*=====[TS Base GameMode Loaded]=====*|
+[19:42:11] \*-----------------------------------*/
+
+[19:42:11] Number of vehicle models: 0
+[19:42:31] [connection] incoming connection: 172.18.0.1:50236 id: 0
+[19:42:32] [join] shikimura04 has joined the server (0:172.18.0.1)
+[19:42:32]     /thelp missing command: tdd
+[19:42:32] Warning: There's something missing or extra in /thelp for player 0.
+    (Report to arofta on "SA-MP Indonesia" Discord if this message ever shows)
+[19:42:38] [part] shikimura04 has left the server (0:1)
+[19:43:47] [debug] Server received interrupt signal
+[19:43:47] [debug] Native backtrace:
+[19:43:47] [debug] #0 f7973e8b in _ZN10StackTraceC1EPv () from plugins/crashdetect.so
+[19:43:47] [debug] #1 f796cbcf in _ZN11CrashDetect20PrintNativeBacktraceERSoPv () from plugins/crashdetect.so
+[19:43:47] [debug] #2 f796ddbc in _ZN11CrashDetect20PrintNativeBacktraceEPv () from plugins/crashdetect.so
+[19:43:47] [debug] #3 f796e176 in _ZN11CrashDetect11OnInterruptEPv () from plugins/crashdetect.so
+[19:43:47] [debug] #4 f7973a7c in ?? () from plugins/crashdetect.so
+[19:43:47] [debug] #5 f7fab300 in __kernel_rt_sigreturn () from linux-gate.so.1
+[19:43:47] [debug] #6 f7fab2cc in __kernel_vsyscall () from linux-gate.so.1
+[19:43:47] [debug] #7 f7a78cca in __clock_nanosleep_time64 () from /lib/i386-linux-gnu/libc.so.6
+[19:43:47] [debug] #8 f7a8b0ad in nanosleep () from /lib/i386-linux-gnu/libc.so.6
+[19:43:47] [debug] #9 f7abc6c3 in usleep () from /lib/i386-linux-gnu/libc.so.6
+[19:43:47] [debug] #10 080b2dca in ?? () from ./samp03svr
+[19:43:47] [debug] #11 f79bdcb9 in ?? () from /lib/i386-linux-gnu/libc.so.6
+[19:43:47] [debug] #12 f79bdd7c in __libc_start_main () from /lib/i386-linux-gnu/libc.so.6
+[19:43:47] [debug] #13 0804b4e1 in ?? () from ./samp03svr
+[19:43:47] --- Server Shutting Down.
+[19:43:47] -----------------------------------------------------------
+[19:43:47] ----Texture Studio v1.0 - v1.9d By [uL]Pottus and Crayder--
+[19:43:47] ----Texture Studio v2.3 - v2.3d by arofta           --
+[19:43:47] -------------------------------------------------Unloaded--
+[19:43:47] 
+
+[19:43:47]  ===============================
+
+[19:43:47]      sscanf plugin unloaded.    
+
+[19:43:47]  ===============================
+
+[19:43:47] 
+
+*** Streamer Plugin v2.9.4 by Incognito unloaded ***
+
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.DL-R1, (C)2005-2018 SA-MP Team
+
+[19:43:59] 
+[19:43:59] Server Plugins
+[19:43:59] --------------
+[19:43:59]  Loading plugin: crashdetect.so
+[19:43:59]   CrashDetect v4.15.1 is OK.
+[19:43:59]   Loaded.
+[19:43:59]  Loading plugin: sscanf.so
+[19:43:59] 
+
+[19:43:59]  ===============================
+
+[19:43:59]       sscanf plugin loaded.     
+
+[19:43:59]          Version:  2.8.1        
+
+[19:43:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:43:59]  ===============================
+
+[19:43:59]   Loaded.
+[19:43:59]  Loading plugin: streamer.so
+[19:43:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[19:43:59]   Loaded.
+[19:43:59]  Loading plugin: filemanager.so
+[19:43:59] ******************
+[19:43:59] ** FILE MANAGER **
+[19:43:59] **    Loaded    **
+[19:43:59] ** Version 1.5 **
+[19:43:59] ******************
+[19:43:59]   Loaded.
+[19:43:59]  Loaded 4 plugins.
+
+[19:43:59] 
+[19:43:59] Filterscripts
+[19:43:59] ---------------
+[19:43:59]   Loading filterscript 'tstudio.amx'...
+[19:43:59]  
+[19:43:59]  
+[19:43:59]          ==============================================================
+[19:43:59]          |                                                            |
+[19:43:59]          |                                                            |
+[19:43:59]          |    YYYYYYY       YYYYYYY    SSSSSSSSSSSSSSS  IIIIIIIIII    |
+[19:43:59]          |    Y:::::Y       Y:::::Y  SS:::::::::::::::S I::::::::I    |
+[19:43:59]          |    Y:::::Y       Y:::::Y S:::::SSSSSS::::::S I::::::::I    |
+[19:43:59]          |    Y::::::Y     Y::::::Y S:::::S     SSSSSSS II::::::II    |
+[19:43:59]          |    YYY:::::Y   Y:::::YYY S:::::S               I::::I      |
+[19:43:59]          |       Y:::::Y Y:::::Y    S:::::S               I::::I      |
+[19:43:59]          |        Y:::::Y:::::Y      S::::SSSS            I::::I      |
+[19:43:59]          |         Y:::::::::Y        SS::::::SSSSS       I::::I      |
+[19:43:59]          |          Y:::::::Y           SSS::::::::SS     I::::I      |
+[19:43:59]          |           Y:::::Y               SSSSSS::::S    I::::I      |
+[19:43:59]          |           Y:::::Y                    S:::::S   I::::I      |
+[19:43:59]          |           Y:::::Y                    S:::::S   I::::I      |
+[19:43:59]          |           Y:::::Y        SSSSSSS     S:::::S II::::::II    |
+[19:43:59]          |        YYYY:::::YYYY     S::::::SSSSSS:::::S I::::::::I    |
+[19:43:59]          |        Y:::::::::::Y     S:::::::::::::::SS  I::::::::I    |
+[19:43:59]          |        YYYYYYYYYYYYY      SSSSSSSSSSSSSSS    IIIIIIIIII    |
+[19:43:59]          |                                                            |
+[19:43:59]          |                                                            |
+[19:43:59]          |                      (c) 2021 MPL v1.1                     |
+[19:43:59]          |            Alex "Y_Less" Cole and contributors.            |
+[19:43:59]          |                                                            |
+[19:43:59]          |                                                            |
+[19:43:59]          ==============================================================
+[19:43:59]  
+[19:43:59]  
+[19:43:59]  ========================================== 
+[19:43:59]  |                                        | 
+[19:43:59]  |   Generating code, this may take a     | 
+[19:43:59]  |  little bit of time.  Note that this   | 
+[19:43:59]  |  code generation works best with the   | 
+[19:43:59]  |     JIT plugin, which you are not      | 
+[19:43:59]  |     currently using.  Get it here:     | 
+[19:43:59]  |                                        | 
+[19:43:59]  |       https://git.io/jit-plugin        | 
+[19:43:59]  |                                        | 
+[19:43:59]  |             Please wait...             | 
+[19:44:01]  |                                        | 
+[19:44:01]  |             Done in 1164ms!            | 
+[19:44:01]  |                                        | 
+[19:44:01]  ========================================== 
+[19:44:01] *** YSI Info: Script ID: 1
+[19:44:01] Unknown command or variable:
+  &)8%3_/n#lient#heck2esponse
+[19:44:01]   Filterscript '../scriptfiles/callbackfix.amx' loaded.
+[19:44:01]  |                                        | 
+[19:44:01]  | Server:      0.3.DL-R1 (L)             | 
+[19:44:01]  | Started:     17 Oct 2026 - 19:43:59    | 
+[19:44:01]  |                                        | 
+[19:44:01]  | Compiler:    3.10.08 (Windows)         | 
+[19:44:01]  | Includes:    0.3DL                     | 
+[19:44:01]  | Codepage:    <none>                    | 
+[19:44:01]  | Built:       19 Sep 2026 - 14:01:03    | 
+[19:44:01]  |                                        | 
+[19:44:01]  | YSI:         v05.10.0006               | 
+[19:44:01]  | Master:      1                         | 
+[19:44:01]  |                                        | 
+[19:44:01]  | JIT:         <none>                    | 
+[19:44:01]  | Crashdetect: <warning>                 | 
+[19:44:01]  |                                        | 
+[19:44:01]  |   Crashdetect has been found, but no   | 
+[19:44:01]  |      long-call controls have been      | 
+[19:44:01]  |   detected.  Get the unofficial fixed  | 
+[19:44:01]  |             release from:              | 
+[19:44:01]  |                                        | 
+[19:44:01]  |           github.com/Y-Less/           | 
+[19:44:01]  |        samp-plugin-crashdetect/        | 
+[19:44:01]  |                                        | 
+[19:44:01]  |                                        | 
+[19:44:01]  ========================================== 
+[19:44:01]  
+[19:44:01]  
+[19:44:01] LOADED 9065 texture definitions
+[19:44:01] -----------------------------------------------------------
+[19:44:01] ----Texture Studio v1.0 - v1.9d By [uL]Pottus and Crayder--
+[19:44:01] ----Texture Studio v2.3 - v2.3d by arofta           --
+[19:44:01] -------------------------------------------------Loaded----
+[19:44:01]   Loaded 1 filterscripts.
+
+[19:44:01] 
+/*-----------------------------------*\
+[19:44:01] |*=====[TS Base GameMode Loaded]=====*|
+[19:44:01] \*-----------------------------------*/
+
+[19:44:01] Number of vehicle models: 0
