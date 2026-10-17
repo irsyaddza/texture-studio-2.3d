@@ -1,0 +1,11 @@
+# Build context tidak perlu file Windows / editor / log lokal
+*.dll
+*.pdb
+pawno/
+server_log.txt
+crashdetect.log
+logs/
+.git/
+.gitignore
+*.zip
+*.deb
