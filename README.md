@@ -25,6 +25,21 @@ A fork of Texture-Studio 1.9, based on the last official release from two years 
 * **[uL]Pottus** — Original (OG) Version
 * **Crayder** — Original (OG) Version
 * **Arofta** — Enhanced Version (maintenance, bug fixes, new features, and modernization)
+* **irsyaddza** — Dockerization & Container Orchestration (containerized deployment, real-time log streaming pipeline, and environment architecture)
+
+## Docker Deployment
+
+The server can be deployed seamlessly within an isolated container environment using Docker Compose:
+
+1. **Build and start the container:**
+   ```bash
+   docker compose up -d --build
+   ```
+2. **Monitor server logs in real time:**
+   ```bash
+   docker compose logs -f
+   ```
+   *Logs are also automatically persisted to `./logs/server_log.txt` on the host machine.*
 
 ## Linux Installation (LemeHost and Others)
 
