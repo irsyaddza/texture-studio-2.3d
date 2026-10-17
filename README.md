@@ -41,12 +41,6 @@ The server can be deployed seamlessly within an isolated container environment u
    ```
    *Logs are also automatically persisted to `./logs/server_log.txt` on the host machine.*
 
-## Linux Installation (LemeHost and Others)
-
-* Locate the `linux-server.cfg` file in the root directory of the gamemode.
-* Delete the existing `server.cfg` file, then rename `linux-server.cfg` to `server.cfg`.
-* Done! You're ready to start the server.
-
 ## Report Issues
 
 * If you encounter any issues, you can report them by DMing **@arofta_** on Discord, or visit the **Texture Studio Enhanced** forum in the **Sharing** channel directly: [Texture Studio Enhanced Forum](https://discord.com/channels/1249653782594191410/1532122021071421521)
